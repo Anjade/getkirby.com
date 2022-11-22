@@ -2,4 +2,5 @@ Details:
 
 <info>
 Note that the `page.update:before` hook is only called when the content of the page content is updated, not when the slug, title, status etc. are changed. 
+Note also that the update:before cant change any of the values to save.
 </info>
